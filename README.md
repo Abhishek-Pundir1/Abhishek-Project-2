@@ -1,8 +1,10 @@
 # Abhishek-Project-2
 OBJECTIVE-
+<br>
 To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.This is Advanced Power BI Dashboard Project.
 <br>
 DESCRIPTION-
+<br>
 The objective can be broken down into the following detailed components:
 
 1. Import file and data cleaning.
